@@ -7,3 +7,4 @@ This repo contains an engine which let you transcribe your recorded audio to tex
 ![Issues](https://img.shields.io/github/issues/littinrajan/speech_to_text_engine)
 ![Stars](https://img.shields.io/github/stars/littinrajan/speech_to_text_engine)
 ![License](https://img.shields.io/github/license/littinrajan/speech_to_text_engine)
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
